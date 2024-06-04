@@ -1,0 +1,81 @@
+- Reglamento Ley General de Aduanas
+  - Título Primero: Principios, Objeto, Ámbito de Aplicación, Disposiciones Generales
+    - Capítulo Único: Ámbito de Aplicación
+  - Título Segundo: Del Régimen Tributario Aduanero
+    - Capítulo I: La Obligación Tributaria Aduanera y las Obligaciones de Pago en Aduanas
+    - Capítulo II: Determinación de los Tributos Aduaneros
+  - Título Tercero: La Función Aduanera
+    - Capítulo I: La Aduana Nacional
+       - Régimen Económico y Financiero
+       - Organización y Funciones
+    - Capítulo II: La Función Pública Aduanera
+    - Capítulo III: Auxiliares de la Función Pública Aduanera
+      - Examenes de Suficiencia, del Tribunal Examinador y de la Licencia de Despachante de Aduana
+      - Licencia del Despachante de Aduana
+      - Requisitos y Autorización para el Ejercicio de Actividades del Despachante de Aduana y las Agencias Despachantes de Aduana
+      - Garantía del Despachante de Aduana
+      - Obligaciones y Responsabilidades de los Despachantes de Aduana y de las Agencias Despachantes de Aduana
+      - Sustitución y Habilitación del Despachante de Aduana y Cambio de Jurisdicción o Razón Social de la Agencia Despachante de Aduana
+      - Suspensión Temporal y Definitiva de Actividades del Despachante de Aduana y Agencia Despachante de Aduana
+      - Sanciones Administrativas
+    - Capítulo IV: Transportador Internacional
+      - Transporte Multimodal
+  - Título Cuarto: Formalidades Aduaneras
+    - Capítulo I: Formalidades Aduaneras previas a la Entrega de Mercancías
+    - Capítulo II: Ingreso y Salida de Medios y Unidades de Transporte de Uso Comercial
+    - Capítulo III: La Entrega de Mercancias ante la Administración Aduanera
+    - Capítulo IV: Despacho Aduanero Disposiciones Generales
+  - Título Quinto: Los Regímenes Aduaneros
+    - Capítulo I: La Importación
+      - Regulaciones para el Ingreso e Importación de Mercancías
+      - Despacho General
+      - Despacho Anticipado
+      - Despacho Inmediato
+    - Capítulo II: Importación para el Consumo
+    - Capítulo III: Admisión de Mercancias con exoneración de Tributos Aduaneros de Importación
+    - Capítulo IV: Reimportación en el mismo Estado
+    - Capítulo V: Exportación Definitiva
+  - Título Sexto: Regímenes Aduaneros Especiales
+    - Capítulo I: Tránsito Aduanero
+    - Capítulo II: Transbordo
+    - Capítulo III: Depósito de Aduana
+    - Capítulo IV: Devolución del Gravamen Arancelario (DRAW BACK)
+    - Capitulo V: Admisión Temporal para Reexportación de Mercancias en el Mismo Estado
+    - Capítulo VI: De la Admisión Temporal para Perfeccionamiento Activo (RITEX)
+    - Capítulo VII: Régimen de Reposición de Mercancías en Franquicia Arancelaria
+    - Capítulo VIII: Exportación Temporal para Perfeccionamiento Pasivo
+    - Capitulo IX: Destinos Aduaneros Especiales o de Excepción Régimen de Viajeros
+      - Menaje Doméstico
+      - Envíos de Paquetes Postales y de Correspondencia
+      - Empresas de Servicio Expreso
+      - Cabotaje
+      - Tiendas Libres de Tributos (DUTY FREE SHOPS)
+      - Ferias Internacionales y Muestras
+      - Empresas de Consolidación y Desconsolidación de Carga Internacional
+      - Material Para Uso Aeronaútico
+      - Tráfico Fronterizo
+      - Efectos Personales de Miembros de la Tripulación
+      - Vehiculos de Turismo
+      - Bienes de Uso Militar y Material Belico
+      - Material Monetario
+      - Equipamiento Destinado a las Instituciones Públicas de Salud y Maquinaria Destinada al Sector Público
+      - Materiales y Suministros para fines de Investigación Científica y Tecnológica
+- Título Septimo: Régimen Especial
+  - Capítulo Único: Zonas Francas
+- Título Octvao: Disposiciones Aduaneras
+  - Capítulo I: Valor en Aduanas e Inspección Previa a la Expedición
+  - Capítulo II: Normas Relativas al Origen de las Mercancías, Pruebas Documentales y Control de Pruebas
+  - Capítulo III: Reembarque
+  - Capítulo IV: Constitución de Garantías Aduaneras
+- Título Noveno: Del Abandono de Mercancías
+  - Capítulo Único: Abandono Expreso y Tácito de Mercancías
+- Título Decimo: Procedimiento de CContravenciones Aduaneras
+  - Capítulo I: Contravención Aduanera
+  - Capitulo II: Procedimiento
+- Título Décimo Primero: Control y Fiscalización Aduanera
+  - Capítulo Único: Control y Fiscalización Aduanera
+- Título Décimo Segundo: Disposiciones Complementarias
+  - Capítulo I: Disposiciones Aduaneras Complementarias
+  - Capítulo II: Disposiciones Finales
+  - Capítulo III: Disposiciones Transitorias
+  

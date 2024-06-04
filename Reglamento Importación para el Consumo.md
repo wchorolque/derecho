@@ -1,0 +1,48 @@
+- Reglamento Importación para El Consumo
+  - Titulo I: DISPOSICIONES GENERALES
+    - Capítulo I: Generalidades
+    - Capítulo II: Formalidades Previas
+  - Titulo II: MODALIDADES DE DESPACHO
+    - Capítulo I: Despacho General
+    - Capítulo II: Despacho Anticipado
+    - Capítulo III: Despacho Inmediato
+    - Capítulo IV: Despacho Aduanero
+  - Titulo III: DECLARACIÓN DE MERCANCÍAS DE IMPORTACIÓN
+    - Capítulo I: Elaboración de la DIM
+    - Capítulo II: Aceptación y Presentación de la DIM
+    - Capítulo III: Pago de Tributos Aduaneros
+    - Capítulo IV: Sistema Selectivo o Aleatorio
+    - Capítulo V: Retiro de las Mercancías
+    - Capítulo VI: Corrección de la DIm
+    - Capítulo VII: Desistimiento de la DIM
+    - Capítulo VIII: Anulación de la DIM
+  - Titulo IV: AFORO
+    - Capítulo I: Aspectos Generales
+    - Capítulo II: Reconocimiento Físico
+    - Capítulo III: Resultados del Aforo
+  - Titulo V: OTRAS OPERACIONES DERIVADAS DEL RÉGIMEN DE IMPORTACIÓN
+    - Capítulo I: Importación de Vehículos
+    - Capítulo II: Despacho Abreviado
+    - Capítulo III: Importación de Mercancías con Exoneración de Tributos Aduaneros
+    - Capítulo IV: Reimportación de Mercancías en el Mismo Estado
+    - Capítulo V: Reimportación de Mercancías con Valor Agregado
+    - Capítulo VI: Reimportación de Mercancía Nacional Sin Pago de Tributos
+    - Capítulo VII: Destinos Aduaneros Especiales
+  - Titulo VI: DECLARACIÓN DE ADQUISICIÓN DE MERCANCÍAS
+    - Capítulo I: Aspectos Generales
+    - Capítulo II: Elaboración de la Declaración de Adquisión de Mercancías
+    - Capítulo III: Excepciones para Registro de la DAM
+    - Capítulo IV: Correción y Anulación de la DAM
+  - Titulo VII: EXAMEN PREVIO AL DESPACHO ADUANERO
+    - Capítulo I: Aspectos Generales
+    - Capítulo II: Examen Previo Solicitado por el Declarante
+    - Capítulo III: Examen Previo Instruido por laa Administración Aduanera
+  - Titulo VIII: DISPOSICIONES COMPLEMENTARIAS
+    - Capítulo I: Operador Económico Autorizado
+    - Capítulo II: Archivo Físico de la DIM
+  - ANEXOS
+    - ANEXO 1: SECUENCIA DE ACTIVIDADES DEL PROCESO DE IMPORTACIÓN SEGÚN MODALIDAD DE DESPACHO
+    - ANEXO 2: SECUENCIA DE ACTIVIDADES DEL PROCESO DE AFORO
+    - ANEXO 3: SECUENCCIA DE ACTIVIDADES DEL EXAMEN PREVIO
+      - A: Examen Previo Solicitado por el Declarante
+      - B: Examen Previo Solicitado por la Administración Aduanera

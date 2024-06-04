@@ -1,0 +1,58 @@
+- Ley General de Aduanas
+  - Título Primero: Principios, Objeto, Ámbito de Aplicación y Definiciones
+    - Capítulo Único: Principios, Objeto, Ámbito de Aplicación y Definiciones
+  - Título Segundo: Régimen Tributario Aduanero
+    - Capítulo I: La Obligación Tributaria Aduanera y las Obligaciones de Pago en Aduanas
+    - Capítulo II: Los Tributos Aduaneros
+  - Título Tercero: La Función Aduanera
+    - Capítulo I: La Aduana Nacional
+    - Capítulo II: La Función Pública Aduanera
+    - Capítulo III: Auxiliares de la Función Pública Aduanera
+    - Capítulo IV: Transportador Internacional
+  - Título Cuarto: Las Formalidades Aduaneras
+    - Capítulo I: Formalidades Aduaneras Previas a la Entrega de Mercancías
+    - Capítulo II: La Entrega de Mercancías ante la Administración AAduanera
+    - Capítulo III: Ingreso y Salida de los medios y unidades de Transporte de Uso Comercial
+    - Capitulo IV: Despacho Aduanero
+  - Título Quinto: Los Regímenes Aduaneros
+    - Capítulo I: La Importación
+    - Capítulo II: Importación para el Consumo
+    - Capítulo III: Admisión de Mercancías con Exoneración de Tributos Aduaneros
+    - Capítulo IV: Reimportación en el Mismo Estado
+    - Capítulo V: Exportación Definitiva
+  - Titulo Sexto: Regímenes Aduaneros Especiales
+    - Capítulo I: Tránsito Aduanero
+    - Capítulo II: Transbordo
+    - Capítulo III: Depósito de Aduana
+    - Capítulo IV: Devolución del Gravamen Arancelario
+    - Capítulo V: La Admisión Temporal para Reexportación de mercancías en el mismo Estado
+    - Capítulo VI: Admisión Temporal para perfeccionamiento activo (RITEX)
+    - Capítulo VII: Régimen de Reposición de Mercancías en Franquicia Arancelaria
+    - Capítulo VIII: Exportación Temporal para Perfeccionamiento Pasivo
+    - Capítulo IX: Destinos Aduaneros Especiales o de Excepción
+  - Título Séptimo: Réfimen Especial
+    - Capítulo Único: Zonas Francas
+  - Título Octavo: Disposiciones Aduaneras
+    - Capítulo I: Valor en Aduanas e Inspección Previa a la expedición
+    - Capítulo II: Normas de Origen, Pruebas Documentales y Control de las Pruebas
+    - Capítulo III: Reembarque
+    - Capítulo IV: Constitución de Garantías Aduaneras
+  - Título Noveno: Abandono de Mercancías
+    - Capítulo I: Abandono Expreso de Mercancías
+    - Capítulo II: Del Abandono de Hecho o Tácito de las Mercancías
+  - Título Décimo: Los Ilícitos Aduaneros
+    - Sección III: Otros Delitos Aduaneros
+      - Capítulo V: Extinción y Prescripción
+      - Capítulo VI: Contravenciones Aduaneras
+  - Titulo Décimo Primero: Procedimiento Sancionatorio De Los Delitos Aduaneros
+  - Título Décimo Segundo: Procedimientos para Sancionar Contravenciones Aduaneras
+  - Título Décimo Tecero: Disposiciones Complementarias
+    - Capítulo I: Consejo de Quejas
+    - Capítulo II: De los Sistemas Informáticos Aduaneros
+    - Capítulo III: Agente Aduanero de Bolivia y los Servicios Portuarios en el Exterior
+    - Capítulo IV: Otras Disposiciones
+  - Título Décimo Cuarto: Disposiciones Transitorias y Derogaciones
+    - Capítulo I: Disposiciones Transitorias
+    - Capítulo II: Abrogaciones y Derogaciones
+
+
