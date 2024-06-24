@@ -2,15 +2,47 @@
   - Primera Parte: Bases Fundamentales del Estado, Derechos, Deberes y Garantías
     - Titulo I: Bases Fundamentales del Estado
       - Capítulo Primero: Modelo de Estado
+        - Artículo 1
+        - Artículo 2
+        - Artículo 3
+        - Artículo 4
+        - Artículo 5
+        - Artículo 6
+        - Artículo 7
       - Capítulo Segundo: Principios, Valores y Fines del Estado
+        - Artículo 8
+        - Artículo 9
+        - Artículo 10
       - Capítulo Tercero: Sistema de Gobierno
+        - Artículo 11
+        - Artículo 12
     - Titulo II: Derechos Fundamentales y Garantías
       - Capítulo Primero: Disposiciones Generales 
+        - Artículo 13
+        - Artículo 14
       - Capítulo Segundo: Derechos Fundamentales
+        - Artículo 15
+        - Artículo 16
+        - Artículo 17
+        - Artículo 18
+        - Artículo 19
+        - Artículo 20
       - Capítulo Tercero: Derechos Civiles y Políticos
         - Sección I: Derechos Civiles
+          - Artículo 21
+          - Artículo 22
+          - Artículo 23
+          - Artículo 24
+          - Artículo 25
         - Sección II: Derechos Políticos
+          - Artículo 26
+          - Artículo 27
+          - Artículo 28
+          - Artículo 29
       - Capítulo Cuarto: Derechos de las Naciones y Pueblos Indígena Originario Campesinos
+          - Artículo 30
+          - Artículo 31
+          - Artículo 32
       - Capítulo Quinto: Derechos Sociales y Económicos
         - Sección I: Derecho al Medio Ambiente
         - Sección II: Derecho a la Salud y a la Seguridad Social
