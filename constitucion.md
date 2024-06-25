@@ -1,10 +1,18 @@
-- Constitución Política del Estado
+---
+title: CPE
+markmap:
+  maxWidth: 700
+---
+- C.P.E. Bolivia
   - Primera Parte: Bases Fundamentales del Estado, Derechos, Deberes y Garantías
     - Titulo I: Bases Fundamentales del Estado
       - Capítulo Primero: Modelo de Estado
         - Artículo 1
+          - Bolivia se constituye en un Estado Unitario Social de Derecho plurinacional Comunitario, libre, independiente, soberano, democrático intercultural, descentralizado y con autonomías. Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y linguístico, dentro del proceso integrador del país.
         - Artículo 2
+          - Dada la existencia precolonial de las naciones y pueblos indígena originario campesinos y su dominio ancestral sobre sus territorios, se garantiza su libre determinación en el marcco de la unidad del Estado, que consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales, conforme a esta Constitución y la ley.
         - Artículo 3
+          - La nación boliviana está conformada por la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas que en conjunto constituyen el pueblo boliviano.
         - Artículo 4
         - Artículo 5
         - Artículo 6
